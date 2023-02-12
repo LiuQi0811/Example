@@ -16,6 +16,7 @@
 		D26728892998E83F005E35A6 /* WebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D26728882998E83F005E35A6 /* WebView.swift */; };
 		D267288B2998F5D6005E35A6 /* Controller.swift in Sources */ = {isa = PBXBuildFile; fileRef = D267288A2998F5D6005E35A6 /* Controller.swift */; };
 		D267288D2998F8B6005E35A6 /* UIKitController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D267288C2998F8B6005E35A6 /* UIKitController.swift */; };
+		D267288F299920B5005E35A6 /* SpacerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D267288E299920B5005E35A6 /* SpacerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		D26728882998E83F005E35A6 /* WebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebView.swift; sourceTree = "<group>"; };
 		D267288A2998F5D6005E35A6 /* Controller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Controller.swift; sourceTree = "<group>"; };
 		D267288C2998F8B6005E35A6 /* UIKitController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIKitController.swift; sourceTree = "<group>"; };
+		D267288E299920B5005E35A6 /* SpacerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				D26728882998E83F005E35A6 /* WebView.swift */,
 				D267288A2998F5D6005E35A6 /* Controller.swift */,
 				D267288C2998F8B6005E35A6 /* UIKitController.swift */,
+				D267288E299920B5005E35A6 /* SpacerView.swift */,
 			);
 			path = SpecialView;
 			sourceTree = "<group>";
@@ -180,6 +183,7 @@
 				D26728892998E83F005E35A6 /* WebView.swift in Sources */,
 				D267288D2998F8B6005E35A6 /* UIKitController.swift in Sources */,
 				D2672884298A2D59005E35A6 /* LotteryView.swift in Sources */,
+				D267288F299920B5005E35A6 /* SpacerView.swift in Sources */,
 				D267288B2998F5D6005E35A6 /* Controller.swift in Sources */,
 				D2672874298A14A8005E35A6 /* ExampleApp.swift in Sources */,
 				D2672886298A340D005E35A6 /* LotteryControl.swift in Sources */,
